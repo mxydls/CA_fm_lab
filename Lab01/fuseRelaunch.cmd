@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "G:/Git_WorkSpace/CA_fm_lab/Lab01/ALU_test_isim_beh.exe" -prj "G:/Git_WorkSpace/CA_fm_lab/Lab01/ALU_test_beh.prj" "work.ALU_test" "work.glbl" 
